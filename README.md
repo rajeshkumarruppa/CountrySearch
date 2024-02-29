@@ -1,5 +1,5 @@
 
-n this assignment, let's build a Countries Search Page by applying the concepts we learned till now.
+in this assignment, let's build a Countries Search Page by applying the concepts we learned till now.
 
 Refer to the below image.
 ![image](https://github.com/rajeshkumarruppa/CountrySearch/assets/150770437/6f7c130a-fb9c-470c-8041-c8f1f7c77540)
@@ -25,6 +25,6 @@ When the value is provided in the HTML input element with id searchInput,
 Filter the HTTP response (Array of objects with keys flag, name, population) based on the value of the HTML input element
 Create HTML elements dynamically with the filtered data and append the created elements to the HTML container element with the id resultCountries
 Concepts Review
-Want to quickly review some of the concepts you’ve been learning?
+
 
 
